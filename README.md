@@ -15,9 +15,10 @@
 
 
 
-## Techstack Used
+## Tech Stack
 
 - JavaScript
 - HTML
 - CSS
 
+**API:** Openweather API
