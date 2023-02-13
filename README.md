@@ -7,6 +7,12 @@
 ## Screenshots
 
 
+![Screenshot (28)](https://user-images.githubusercontent.com/54469061/218452479-86629ef2-bb80-4603-8f23-edd5ec857e97.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/54469061/218452495-0c90cc21-b9e7-498a-a8ac-08e50459314e.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/54469061/218452508-379e7f07-6b15-4981-b737-84c4dbb01e99.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/54469061/218452515-c00ec8ad-0667-466b-9ef9-5d3f2be3dc24.png)
+
+
 
 
 ## Techstack Used
